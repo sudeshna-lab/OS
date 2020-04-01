@@ -1,0 +1,9 @@
+https://www.design-reuse.com/articles/25090/dynamic-memory-allocation-fragmentation-c.html
+
+https://stackoverflow.com/questions/3770457/what-is-memory-fragmentation
+
+
+https://www.geeksforgeeks.org/memory-layout-of-c-program/ //understanding for data segment and bss
+https://www.tutorialspoint.com/operating_system/os_memory_management.htm
+
+https://www.tutorialspoint.com/operating_system/os_memory_management.htm //paging and segmenttion
